@@ -5,7 +5,7 @@ Scrape fb events of your friends and see all of them in one place!
 #### Usage
 
 * Download script
-* In `peofiles` section add urls to your friends' fb events pages, e.g.
+* In `profiles` section add urls to your friends' fb events pages, e.g.
 
 ```
 var profiles= 
